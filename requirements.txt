@@ -5,3 +5,4 @@ keras==2.4.3
 tensorflow==2.5.0
 matplotlib==3.4.2
 pandas_datareader==0.10.0
+sklearn==0.0
