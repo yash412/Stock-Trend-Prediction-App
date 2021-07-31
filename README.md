@@ -5,10 +5,17 @@ It's a streamlit web application, which tells the trend of a stock by  using ten
 ## Requirements
 
 streamlit
+
 numpy
+
 pandas
+
 keras
+
 tensorflow
+
 matplotlib
+
 pandas_datareader
+
 sklearn
